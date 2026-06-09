@@ -2,6 +2,8 @@
 
 The SemiBlock Flowchart editor is a visual design tool for creating classic flowcharts using an interactive SVG canvas. It is embedded in the SemiBlock platform and helps students and educators diagram algorithms, control flows, data processing, and decision logic.
 
+![](img/overview.png){width=100%}
+
 ## Key Features
 
 - **7 built-in shapes** in a left Palette: Start/End (ellipse), Process (rounded rect), Decision (diamond), Input/Output (parallelograms), Point (connector dot), and Arrow.

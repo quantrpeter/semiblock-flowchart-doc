@@ -2,8 +2,6 @@
 
 The Flowchart editor provides a classic visual canvas for planning logic using standard flowchart symbols.
 
-![](img/overview.png){width=100%}
-
 ## Accessing the Editor
 
 Open the Flowchart tool from the SemiBlock main navigation or project area. It launches in **Builder** view with an empty or last-used canvas.
