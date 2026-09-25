@@ -42,5 +42,19 @@ Imagine a program that checks whether it is raining.
 
 The flowchart asks a question:
 Is it raining?
-If the answer is Yes, the user should take an umbrella.
-If the answer is No, the user can go outside.
+- If the answer is **Yes**, the user should take an umbrella.
+- If the answer is **No**, the user can go outside.
+
+
+## Remember
+
+A good flowchart should be:
+- **Clear** – easy to understand
+- **Simple** – avoid unnecessary steps
+- **Logical** – steps should follow the correct order
+- **Connected** – arrows should clearly show the direction of the process
+
+
+### **Think first, flowchart second, code third.**
+
+> Creating a flowchart before programming can make your program easier to - design, understand, and debug.
