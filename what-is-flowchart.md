@@ -34,3 +34,13 @@ For example, before programming a traffic light system, we can first create a fl
 | ![](img/in.png){height=100} ![](img/out.png){height=100} | Parallelogram | Input / Output | Shows information entering or leaving the system |
 | ![](img/arow.png){height=100} | Arrow | Flow Line | Shows the direction of the process |
 
+## Example
+
+Imagine a program that checks whether it is raining.
+
+![](img/eg1.png){width=inherit}
+
+The flowchart asks a question:
+Is it raining?
+If the answer is Yes, the user should take an umbrella.
+If the answer is No, the user can go outside.
