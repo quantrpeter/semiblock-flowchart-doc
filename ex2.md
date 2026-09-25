@@ -24,12 +24,13 @@ Use:
 
 |  |  |  |
 | :---: | :---: | :---: |
-|  | Start |  | 
-|  | ↓ |  | 
-|  | Is it raining?   |  | 
+|  | Start |  |
+|  | ↓ |  |
+|  | Is it raining? |  |
 | Yes ↙ |  | ↘ No |
 | Take umbrella |  | Go outside |
 | ↘ |  | ↙ |
-|  | End |  | 
+|  | End |  |
+
 
 ### Click here to check the answer -> [Answer]()
