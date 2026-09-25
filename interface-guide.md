@@ -112,3 +112,6 @@ Try creating a simple flowchart:
 
 Once you are familiar with the interface, you are ready to create your first flowchart!
 
+## 🎉 Time to Practice!
+
+Now you have learned all the essential concepts. Let's get some hands-on experience! Open the SemiBlock Flowchart editor and follow our Getting Started tutorial to build your first diagram.
