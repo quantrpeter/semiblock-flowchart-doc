@@ -28,9 +28,9 @@ For example, before programming a traffic light system, we can first create a fl
 
 | Image | Symbol | Name | Purpose |
 | --- | --- | --- | --- |
-| ![](img/oval.png){height=inherit} | Oval | Start / End | Shows where the process begins or ends |
-| ![](img/rectangle.png){width=inherit} | Rectangle | Process | Shows an action or instruction |
-| ![](img/diamond.png){width=inherit} | Diamond | Decision | Shows a question or condition |
-| ![](img/in.png){width=inherit} ![](img/out.png){width=inherit} | Parallelogram | Input / Output | Shows information entering or leaving the system |
-| ![](img/arow.png){width=inherit} | Arrow | Flow Line | Shows the direction of the process |
+| ![](img/oval.png){height=100} | Oval | Start / End | Shows where the process begins or ends |
+| ![](img/rectangle.png){height=100} | Rectangle | Process | Shows an action or instruction |
+| ![](img/diamond.png){height=100} | Diamond | Decision | Shows a question or condition |
+| ![](img/in.png){height=100} ![](img/out.png){height=100} | Parallelogram | Input / Output | Shows information entering or leaving the system |
+| ![](img/arow.png){height=100} | Arrow | Flow Line | Shows the direction of the process |
 
