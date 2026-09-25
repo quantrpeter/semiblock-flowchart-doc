@@ -7,7 +7,7 @@
 - [Exercises](ex0.md)
   - [Exercise 1 — Making a Cup of Tea](ex1.md)
   - [Answer 1](ans1.md)
-  - [Exercise 2 Answer — Is It Raining?](ex2.md)
+  - [Exercise 2 — Is It Raining?](ex2.md)
   - [Answer 2](ans2.md)
   - [Exercise 3 — Temperature Checker](ex3.md)
   - [Answer 3](ans3.md)
