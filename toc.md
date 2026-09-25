@@ -4,7 +4,7 @@
 - [Getting Started](getting-started.md)
 - [What is Flowchart](what-is-flowchart.md)
 - [Familiar with the Interface](interface-guide.md)
-- Exercises
+- [Exercises](ex0.md)
   - [Exercise 1 — Making a Cup of Tea](ex1.md)
   - [Exercise 2 Answer — Is It Raining?](ex2.md)
   - [Exercise 3 — Temperature Checker](ex3.md)
