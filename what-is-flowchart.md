@@ -58,3 +58,5 @@ A good flowchart should be:
 ### **Think first, flowchart second, code third.**
 
 > Creating a flowchart before programming can make your program easier to - design, understand, and debug.
+
+**Next:** [Familiar with the Interface](interface-guide.md)
