@@ -26,4 +26,6 @@ Use:
 
 Can you add more steps, such as adding milk or sugar?
 
-### Click here to check the answer -> [Answer]()
+---
+
+### Click here to check the answer -> [Answer](ans1.md)

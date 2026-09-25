@@ -40,4 +40,4 @@ Add another condition:
 - 50–79 → **Pass**
 - Below 50 → **Fail**
 
-### Click here to check the answer -> [Answer]()
+### Click here to check the answer -> [Answer](ans4.md)

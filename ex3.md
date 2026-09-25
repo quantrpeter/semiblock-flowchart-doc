@@ -32,4 +32,4 @@ Which symbol should you use for:
 2. Checking whether the temperature is above 30°C?
 3. Displaying the result?
 
-### Click here to check the answer -> [Answer]()
+### Click here to check the answer -> [Answer](ans3.md)

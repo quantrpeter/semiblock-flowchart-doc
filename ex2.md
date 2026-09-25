@@ -20,17 +20,5 @@ Use:
 - **Process**
 - **Arrow**
 
-## Expected Logic
 
-|  |  |  |
-| :---: | :---: | :---: |
-|  | Start |  |
-|  | ↓ |  |
-|  | Is it raining? |  |
-| Yes ↙ |  | ↘ No |
-| Take umbrella |  | Go outside |
-| ↘ |  | ↙ |
-|  | End |  |
-
-
-### Click here to check the answer -> [Answer]()
+### Click here to check the answer -> [Answer](ans2.md)

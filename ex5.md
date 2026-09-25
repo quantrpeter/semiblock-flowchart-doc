@@ -28,21 +28,6 @@ Use:
 - **Arrow**
 
 
-## Suggested Logic
-
-|  |  |  |
-| :---: | :---: | :---: |
-|  | Start |  | 
-|  | ↓ |  | 
-|  | Read light sensor |  |
-|  | ↓ |  |
-|  | Is it dark? |  |
-| Yes ↙ |  | ↘ No |
-| Light ON |  | Light OFF |
-| ↘ |  | ↙ |
-|  | Read light sensor again |  | 
-
-
 ## Challenge
 
 Add another condition:
@@ -51,4 +36,4 @@ If a person is detected **and** it is dark, turn the light ON.
 
 Otherwise, keep the light OFF.
 
-### Click here to check the answer -> [Answer]()
+### Click here to check the answer -> [Answer](ans5.md)
